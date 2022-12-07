@@ -1,0 +1,30 @@
+{
+  "modmenu.summaryTranslation.venomhack": "HvH orientierte Hinzufügung für Meteorclient.",
+  "modmenu.descriptionTranslation.venomhack": "Diese Erweiterung fügt einige neue Module hinzu, unter anderen AutoBett und AutoKristall.",
+
+  "notifier.despawn": " hat deine Sichtweite verlassen.",
+  "notifier.spawn": " hat deine Sichtweite betreten.",
+
+  "autocity.target": "Kein Ziel gefunden. Abschalten...",
+  "autocity.block": "Kein Zielblock gefunden. Abschalten...",
+  "autocity.reach": "Zielblock ausser Reichweite. Abschalten...",
+  "autocity.tool": "Kein passendes Werkzeug gefunden. Abschalten...",
+  "autocity.support": "Unterstützungsblock konnte nicht platziert werden, baue dennoch ab.",
+  "autocity.obsidian": "Kein Obsidian zur Unterstützung gefunden, baue dennoch ab.",
+  "autocity.attempt": "Versuche zu citien bei ",
+
+  "greeter.singleplayer": "Im Einzelspielermodus! Abschalten...",
+  "greeter.noWelcome": "Keine Willkommensnachricht eingestellt!",
+  "greeter.noGoodbye": "Keine Abschiedsnachricht eingestellt!",
+  "greeter.join": " hat das Spiel betreten.",
+  "greeter.leave": " hat das Spiel verlassen.",
+
+  "burrow.ground": "Nicht auf dem Boden!",
+  "burrow.block": "Kein Block für Burrow gefunden!",
+  "burrow.world": "Ausserhalb der Welt!",
+  "burrow.burrowed": "Schon geburrowt!",
+  "burrow.headroom": "Kein Platz zum burrown!",
+  "burrow.entities": "Es sind Entities im Weg!",
+  "burrow.place": "Keine Platziermöglichkeit gefunden!",
+  "burrow.rubberband": "Nicht genug Platz zum Rubberbanden!"
+}

@@ -1,0 +1,30 @@
+{
+  "modmenu.summaryTranslation.venomhack": "HvH orientated addon for meteor client.",
+  "modmenu.descriptionTranslation.venomhack": "This addon adds a bunch of new modules, most notable the auto bed and auto crystal.",
+
+  "notifier.despawn": " has left your visual range.",
+  "notifier.spawn": " has entered your visual range.",
+
+  "autocity.target": "No target found. disabling...",
+  "autocity.block": "No target block found. disabling...",
+  "autocity.reach": "Target block out of reach. disabling...",
+  "autocity.tool": "No matching tool found. disabling...",
+  "autocity.support": "Couldn't place support block, mining anyway.",
+  "autocity.obsidian": "No obsidian found for support, mining anyway.",
+  "autocity.attempt": "Attempting to city ",
+
+  "greeter.singleplayer": "In Singleplayer! Disabling...",
+  "greeter.noWelcome": "No welcome message set!",
+  "greeter.noGoodbye": "No goodbye message set!",
+  "greeter.join": " has joined the game.",
+  "greeter.leave": " has left the game.",
+
+  "burrow.ground": "Not on ground!",
+  "burrow.block": "No block to burrow with found!",
+  "burrow.world": "Out of world!",
+  "burrow.burrowed": "Already burrowed!",
+  "burrow.headroom": "Not enough headroom to burrow!",
+  "burrow.entities": "Can't burrow, there are entities in the way!",
+  "burrow.place": "Nowhere to place!",
+  "burrow.rubberband": "Not enough space to rubberband!"
+}

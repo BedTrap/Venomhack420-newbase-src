@@ -1,0 +1,42 @@
+{
+  "schemaVersion": 1,
+  "id": "vhack",
+  "name": "Venomhack",
+  "version": "0.5.3",
+  "description": "Hack client with a custom base, made for crystal pvp.",
+  "authors": [
+    "tyrannus00 - Owner",
+    "Bowlz - Contributor",
+    "MouldyLasagne - Contributor",
+    "Walaryne - Contributor",
+    "Ilmars - Contributor",
+    "PFT_Pancake - Contributor",
+    "Minegame159 - Making Orbit"
+  ],
+  "contact": {
+    "sources": "https://github.com/tyrannus00/Venomhack420/",
+    "homepage": "https://discord.gg/VqRd4MJkbY",
+    "issues": "https://github.com/tyrannus00/Venomhack420/issues"
+  },
+  "icon": "assets/venomhack/icon.png",
+  "environment": "client",
+  "entrypoints": {
+    "client": [
+      "de.tyrannus.venomhack.Venomhack"
+    ]
+  },
+  "mixins": [
+    "vhack.mixins.json"
+  ],
+  "accessWidener": "vhack.accesswidener",
+  "depends": {
+    "fabricloader": "\u003e\u003d0.13.3",
+    "fabric-api": "\u003e\u003d0.46.0",
+    "minecraft": "1.19.x"
+  },
+  "jars": [
+    {
+      "file": "META-INF/jars/orbit-0.2.3.jar"
+    }
+  ]
+}
